@@ -1,0 +1,6 @@
+streamlit
+pandas
+rapidfuzz
+lxml
+html5lib
+openpyxl
